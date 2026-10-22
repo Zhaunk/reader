@@ -46,6 +46,23 @@ The origins of supermassive black holes, found in the centers of most large gala
     author: "Editorial Team",
     date: "2026-10-21",
   },
+  {
+    id: 4,
+    title: "The Science of Habit Formation",
+    summary:
+      "How repeated actions become automatic, why habits take time, and how everyday cues shape our behavior.",
+    content: `Brushing your teeth or reaching for your phone can happen with little conscious thought. These actions illustrate habits: learned responses that become linked to familiar situations through repetition. A cue, such as finishing breakfast or hearing a notification, can eventually prompt an action without a fresh decision.
+
+Habit formation involves learning associations between context and behavior. Repeating an action in a consistent setting strengthens that connection, allowing the behavior to become more automatic. This can free attention for other tasks, although the same process can sustain unwanted routines. Enjoyable outcomes can encourage repetition, giving habits more opportunities to develop.
+
+There is no universal deadline for forming a habit. A widely cited study by psychologist Phillippa Lally and colleagues reported a central estimate of 66 days, but estimates varied substantially between people and behaviors. The often repeated claim that every habit takes 21 days is not a reliable scientific rule. Becoming automatic is a gradual process rather than a switch that flips on a particular date.
+
+To encourage a new routine, choose a specific action and connect it to a recurring situation: for example, reading one page after breakfast. Make the action manageable enough to repeat consistently.
+
+Changing an unwanted habit can involve changing its cues or practicing an alternative response. Learning a replacement does not necessarily erase the original association, which helps explain why old routines can return in familiar surroundings. Progress depends on repeated practice and supportive conditions, not simply knowing what you want to change.`,
+    author: "Editorial Team",
+    date: "2026-10-21",
+  },
 ];
 
 export default articles;
