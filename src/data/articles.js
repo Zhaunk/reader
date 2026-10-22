@@ -29,6 +29,23 @@ The practical implications are clear. Students who sleep after studying recall s
     author: "Editorial Team",
     date: "2025-12-02",
   },
+  {
+    id: 3,
+    title: "How Black Holes Are Formed",
+    summary:
+      "How collapsing stars create black holes, how these objects grow, and why the origins of the biggest remain a mystery.",
+    content: `A black hole forms when enough matter is squeezed into a small enough space that gravity creates a boundary called an event horizon. Beyond this boundary, nothing can escape outward, including light.
+
+One well-understood route begins with a massive star. Throughout its life, nuclear fusion releases energy that helps support the star against gravity. When its core can no longer produce enough energy through fusion, that support fails and the core collapses.
+
+The collapse may accompany a supernova, an explosion that throws the star's outer layers into space. Some stars instead collapse into black holes without a bright explosion. If the remaining core is too massive to survive as a neutron star, gravity overwhelms the pressure that could otherwise hold it up, forming a black hole. Our Sun lacks the mass to meet this fate; it will eventually leave behind a white dwarf.
+
+Black holes can then grow by collecting nearby gas or merging with other black holes. Mergers release gravitational waves: ripples in space and time that detectors on Earth can measure.
+
+The origins of supermassive black holes, found in the centers of most large galaxies, are less certain. They contain millions or billions of times the Sun's mass. Scientists are investigating whether their first seeds came from collapsing stars or much larger collapsing objects in the early universe. Feeding and mergers helped them grow, but explaining how some became enormous so quickly remains an active research challenge.`,
+    author: "Editorial Team",
+    date: "2026-10-21",
+  },
 ];
 
 export default articles;
